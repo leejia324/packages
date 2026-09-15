@@ -1,0 +1,3 @@
+changelog: |
+  - Documents that `TextField.decoration` is merged with the ambient `ThemeData.inputDecorationTheme`, so theme-defined properties (such as a border) still apply unless overridden.
+version: patch
